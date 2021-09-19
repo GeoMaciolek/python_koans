@@ -3,6 +3,9 @@ image:
 
 tasks:
   - command: python contemplate_koans.py
+  - name: Sniffer
+    command: sniffer
+    openIn: right
 
 github:
     prebuilds:
