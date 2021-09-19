@@ -4,6 +4,7 @@ image:
 tasks:
   - command: python contemplate_koans.py
   - name: Sniffer
+    openMode: split-right
     command: sniffer
     openIn: right
 
